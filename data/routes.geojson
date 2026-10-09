@@ -1,0 +1,888 @@
+{
+ "type": "FeatureCollection",
+ "name": "xiamen-outdoor-risk-routes",
+ "source": "厦门市体育局户外风险线路公告（2026-03），二手整理；坐标精度约±100m，使用前需核对原文",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.015,
+     24.505
+    ]
+   },
+   "properties": {
+    "id": "hc1",
+    "name": "蔡尖尾穿越石室禅院",
+    "district": "海沧区",
+    "category": "hiking",
+    "typeLabel": "徒步登山",
+    "difficulty": null,
+    "distanceKm": null,
+    "ascent": null,
+    "descent": null,
+    "risk": "山脊风大无遮挡，部分临崖路段无护栏，易失稳摔倒。",
+    "banned": "老人儿童、户外新手、单人出行",
+    "zoneId": "hill",
+    "note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.045,
+     24.585
+    ]
+   },
+   "properties": {
+    "id": "jm1",
+    "name": "越尾山境小环线",
+    "district": "集美区",
+    "category": "hiking",
+    "typeLabel": "徒步登山",
+    "difficulty": 3,
+    "distanceKm": 3.5,
+    "ascent": 285,
+    "descent": 290,
+    "risk": "野路岔路多，密林覆盖易偏离轨迹，手机信号弱。多次发生短距离迷路、摔伤。",
+    "banned": "老人儿童、无专业导航设备者、单人出行者",
+    "zoneId": "hill",
+    "note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118,
+     24.6
+    ]
+   },
+   "properties": {
+    "id": "jm2",
+    "name": "安泰宫仙灵旗东方庵穿越",
+    "district": "集美区",
+    "category": "hiking",
+    "typeLabel": "徒步登山",
+    "difficulty": null,
+    "distanceKm": null,
+    "ascent": null,
+    "descent": null,
+    "risk": "山脊陡峭，下坡碎石多易打滑，对膝盖冲击大。",
+    "banned": "老人儿童、户外新手、单人出行",
+    "zoneId": "hill",
+    "note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.005,
+     24.606
+    ]
+   },
+   "properties": {
+    "id": "jm3",
+    "name": "安泰宫钉顶尾古山重",
+    "district": "集美区",
+    "category": "hiking",
+    "typeLabel": "徒步登山",
+    "difficulty": null,
+    "distanceKm": null,
+    "ascent": null,
+    "descent": null,
+    "risk": "超大落差下坡，膝关节压力极大，易造成韧带与关节损伤。",
+    "banned": "老人儿童、户外新手、单人出行",
+    "zoneId": "hill",
+    "note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.985,
+     24.575
+    ]
+   },
+   "properties": {
+    "id": "jm4",
+    "name": "安泰宫-仙灵棋-天竺山穿越",
+    "district": "集美区",
+    "category": "hiking",
+    "typeLabel": "徒步登山",
+    "difficulty": 5,
+    "distanceKm": 13.6,
+    "ascent": 610,
+    "descent": 1100,
+    "risk": "超长距离下降，体力透支易崴脚、滑坠，全程无补给。发生多起体力不支、滑坠被困、迷路事故。",
+    "banned": "老人儿童、户外新手、日徒步里程低于 10 公里者、单人出行",
+    "zoneId": "hill",
+    "note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.997,
+     24.615
+    ]
+   },
+   "properties": {
+    "id": "jm5",
+    "name": "白虎岩穿越安泰宫",
+    "district": "集美区",
+    "category": "hiking",
+    "typeLabel": "徒步登山",
+    "difficulty": 5,
+    "distanceKm": 15,
+    "ascent": 900,
+    "descent": 530,
+    "risk": "大爬升高强度，部分路段临崖，山区手机信号弱。频发中暑脱水、体力透支、山林迷路。",
+    "banned": "老人、高血压、心肺疾病、户外新手、单人出行",
+    "zoneId": "hill",
+    "note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.975,
+     24.595
+    ]
+   },
+   "properties": {
+    "id": "jm6",
+    "name": "双龙潭仙灵棋环线",
+    "district": "集美区",
+    "category": "hiking",
+    "typeLabel": "徒步登山",
+    "difficulty": 5,
+    "distanceKm": 16,
+    "ascent": 910,
+    "descent": 910,
+    "risk": "全程大起伏，无补给点，密林覆盖易迷路。",
+    "banned": "老人儿童、户外新手、单人出行",
+    "zoneId": "hill",
+    "note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.098,
+     24.443
+    ]
+   },
+   "properties": {
+    "id": "sm1",
+    "name": "磨心山跳跳谷野线",
+    "district": "思明区",
+    "category": "climbing",
+    "typeLabel": "巨石攀爬野线",
+    "difficulty": 4,
+    "distanceKm": 3,
+    "ascent": 260,
+    "descent": 250,
+    "risk": "非景区步道，巨石松动易滚落，岔路极多易迷路。近年频发迷路被困、摔伤事故。",
+    "banned": "老人儿童、户外新手、单人出行",
+    "zoneId": "egg",
+    "note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.115,
+     24.456
+    ]
+   },
+   "properties": {
+    "id": "sm2",
+    "name": "洞房谷穿越蟒蛇谷",
+    "district": "思明区",
+    "category": "climbing",
+    "typeLabel": "攀谷徒步",
+    "difficulty": 4,
+    "distanceKm": 3.5,
+    "ascent": 200,
+    "descent": 180,
+    "risk": "蟒蛇谷岩壁陡峭湿滑，无保护攀爬极易坠落摔伤。多次发生滑坠摔伤、被困岩壁事故。",
+    "banned": "老人儿童、户外新手、无领队经验者、体力薄弱者、单人出行",
+    "zoneId": "egg",
+    "note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.104,
+     24.449
+    ]
+   },
+   "properties": {
+    "id": "sm3",
+    "name": "景幽谷穿越鹰翅谷",
+    "district": "思明区",
+    "category": "climbing",
+    "typeLabel": "攀谷徒步",
+    "difficulty": 4,
+    "distanceKm": 3,
+    "ascent": 200,
+    "descent": 180,
+    "risk": "峡谷狭窄、碎石松动，视野差极易迷路，雨天滚石风险高。",
+    "banned": "老人儿童、户外新手、单人出行",
+    "zoneId": "egg",
+    "note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.112,
+     24.45
+    ]
+   },
+   "properties": {
+    "id": "sm4",
+    "name": "滚蛋谷穿越中左所营",
+    "district": "思明区",
+    "category": "climbing",
+    "typeLabel": "攀谷徒步",
+    "difficulty": 4,
+    "distanceKm": 3.5,
+    "ascent": 250,
+    "descent": 250,
+    "risk": "巨型圆石易滑落，攀爬重心不稳易坠石砸伤、崴脚骨折。事故高发线，年均救援 10 次以上。",
+    "banned": "老人儿童、户外新手、单人出行",
+    "zoneId": "egg",
+    "note": "厦门“跳石运动”发源地；谷底石蛋直径多 2–5 m，最大超 10 m"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.117,
+     24.443
+    ]
+   },
+   "properties": {
+    "id": "sm5",
+    "name": "东坪山七山穿越",
+    "district": "思明区",
+    "category": "hiking",
+    "typeLabel": "徒步登山",
+    "difficulty": null,
+    "distanceKm": null,
+    "ascent": null,
+    "descent": null,
+    "risk": "超长距离高强度，全程无补给点，冬季易失温、夏季易中暑。",
+    "banned": "老人儿童、户外新手、单人出行",
+    "zoneId": "egg",
+    "note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.12,
+     24.452
+    ]
+   },
+   "properties": {
+    "id": "sm6",
+    "name": "东坪山五谷连登",
+    "district": "思明区",
+    "category": "climbing",
+    "typeLabel": "攀谷徒步",
+    "difficulty": null,
+    "distanceKm": null,
+    "ascent": null,
+    "descent": null,
+    "risk": "恶魔谷、跳跳谷无护栏，石洞暗坑多，陡壁湿滑易坠洞。",
+    "banned": "老人儿童、户外新手、单人出行",
+    "zoneId": "egg",
+    "note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.106,
+     24.455
+    ]
+   },
+   "properties": {
+    "id": "sm7",
+    "name": "恶魔谷（五谷之一）",
+    "district": "思明区",
+    "category": "climbing",
+    "typeLabel": "攀谷徒步",
+    "difficulty": null,
+    "distanceKm": null,
+    "ascent": null,
+    "descent": null,
+    "risk": "无护栏、暗坑密布、岩壁湿滑致命，无任何安全防护。2026-01-28 有夫妻滑坠约 10 米深石洞。",
+    "banned": "老人儿童、户外新手、单人出行",
+    "zoneId": "egg",
+    "note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.099,
+     24.458
+    ]
+   },
+   "properties": {
+    "id": "sm8",
+    "name": "文少谷（五谷之一）",
+    "district": "思明区",
+    "category": "climbing",
+    "typeLabel": "未开发纯野谷攀援",
+    "difficulty": 5,
+    "distanceKm": 2.5,
+    "ascent": 220,
+    "descent": 210,
+    "risk": "无路径、无保护、多垂直崖壁，完全原生野线。已发生多起高空被困、坠崖险情救援。",
+    "banned": "官方公告标注“所有人禁止进入”",
+    "zoneId": "egg",
+    "note": "35 条线中唯一“所有人禁止进入”"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.09,
+     24.735
+    ]
+   },
+   "properties": {
+    "id": "ta1",
+    "name": "流枫溪圈越",
+    "district": "同安区",
+    "category": "creek",
+    "typeLabel": "峡谷徒步",
+    "difficulty": null,
+    "distanceKm": null,
+    "ascent": null,
+    "descent": null,
+    "risk": "溪谷湿滑，雨后易涨水，碎石滚落风险高。",
+    "banned": "老人儿童、户外新手、雨后进入者、单人出行",
+    "zoneId": "canyon",
+    "note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.115,
+     24.705
+    ]
+   },
+   "properties": {
+    "id": "ta10",
+    "name": "龟螺溪圈越",
+    "district": "同安区",
+    "category": "creek",
+    "typeLabel": "溯溪徒步",
+    "difficulty": null,
+    "distanceKm": null,
+    "ascent": null,
+    "descent": null,
+    "risk": "溪谷漫长，涉水与攀爬并存，山洪与滚石双重风险。",
+    "banned": "老人儿童、户外新手、单人出行",
+    "zoneId": "canyon",
+    "note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.125,
+     24.745
+    ]
+   },
+   "properties": {
+    "id": "ta11",
+    "name": "淡溪穿越雄狮瀑布",
+    "district": "同安区",
+    "category": "creek",
+    "typeLabel": "峡谷徒步（瀑布段）",
+    "difficulty": null,
+    "distanceKm": null,
+    "ascent": null,
+    "descent": null,
+    "risk": "瀑布段湿滑陡峭，易失足坠落，溪谷易快速涨水。",
+    "banned": "老人儿童、户外新手、单人出行",
+    "zoneId": "canyon",
+    "note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.15,
+     24.8
+    ]
+   },
+   "properties": {
+    "id": "ta12",
+    "name": "北辰山牛岭山反向穿越",
+    "district": "同安区",
+    "category": "hiking",
+    "typeLabel": "徒步登山",
+    "difficulty": null,
+    "distanceKm": null,
+    "ascent": null,
+    "descent": null,
+    "risk": "无补给、无路标、无信号，傍晚出发极易天黑迷路。",
+    "banned": "老人儿童、户外新手、单人出行",
+    "zoneId": "canyon",
+    "note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.165,
+     24.775
+    ]
+   },
+   "properties": {
+    "id": "ta13",
+    "name": "造水穿越北辰山",
+    "district": "同安区",
+    "category": "hiking",
+    "typeLabel": "徒步登山",
+    "difficulty": null,
+    "distanceKm": null,
+    "ascent": null,
+    "descent": null,
+    "risk": "超大爬升 + 大下降，全程无补给，体力要求极高。",
+    "banned": "老人儿童、户外新手、单人出行",
+    "zoneId": "canyon",
+    "note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.103,
+     24.76
+    ]
+   },
+   "properties": {
+    "id": "ta14",
+    "name": "杉际内上云顶穿越",
+    "district": "同安区",
+    "category": "hiking",
+    "typeLabel": "峡谷徒步",
+    "difficulty": 5,
+    "distanceKm": 7,
+    "ascent": 800,
+    "descent": 450,
+    "risk": "极限连续爬升，陡坡无保护，体力消耗极大。",
+    "banned": "高血压、心肺疾病、户外新手、体能薄弱者、单人出行",
+    "zoneId": "canyon",
+    "note": "云顶山为厦门最高峰（海拔 1175 m）"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.145,
+     24.79
+    ]
+   },
+   "properties": {
+    "id": "ta15",
+    "name": "龙凤谷上百丈崖穿越",
+    "district": "同安区",
+    "category": "climbing",
+    "typeLabel": "峡谷徒步（含无保护攀爬）",
+    "difficulty": 5,
+    "distanceKm": 13,
+    "ascent": 800,
+    "descent": 560,
+    "risk": "百丈崖陡峭险峻，无保护攀爬，滚石风险极高。发生过坠崖、陡坡被困、滑坠重伤事故。",
+    "banned": "未成年人、户外新手、恐高症、无专业装备者、单人出行",
+    "zoneId": "canyon",
+    "note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.17,
+     24.755
+    ]
+   },
+   "properties": {
+    "id": "ta16",
+    "name": "汪前峡谷云顶环线",
+    "district": "同安区",
+    "category": "hiking",
+    "typeLabel": "峡谷登山徒步",
+    "difficulty": 5,
+    "distanceKm": 14,
+    "ascent": 800,
+    "descent": 780,
+    "risk": "长距离峡谷 + 登山结合，信号差、无补给，山洪风险极高。厦门顶级高风险野线，经常发生大规模联合救援。",
+    "banned": "老人儿童、户外新手、雨天出行者、单人出行",
+    "zoneId": "canyon",
+    "note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.175,
+     24.73
+    ]
+   },
+   "properties": {
+    "id": "ta17",
+    "name": "三秀山环线",
+    "district": "同安区",
+    "category": "hiking",
+    "typeLabel": "徒步登山",
+    "difficulty": 5,
+    "distanceKm": 14,
+    "ascent": 930,
+    "descent": 930,
+    "risk": "全程高强度起伏，无补给，密林覆盖易迷路。体力不支、夜间迷路、失温、中暑事件频发。",
+    "banned": "老人、户外新手、体能不达标者、单人出行",
+    "zoneId": "canyon",
+    "note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.16,
+     24.765
+    ]
+   },
+   "properties": {
+    "id": "ta18",
+    "name": "造水大环线",
+    "district": "同安区",
+    "category": "hiking",
+    "typeLabel": "徒步登山",
+    "difficulty": 5,
+    "distanceKm": 21,
+    "ascent": 1150,
+    "descent": 1150,
+    "risk": "厦门顶级强度野线，无补给、无信号、无救援通道，极易失温/中暑。多次出动大规模救援，含人员失联、重度脱水、失温险情。",
+    "banned": "未成年人、所有户外新手、无专业领队者、体能不达标者、单人出行",
+    "zoneId": "canyon",
+    "note": "35 条线中里程最长、强度最高（21 km / 爬升 1150 m）"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.105,
+     24.71
+    ]
+   },
+   "properties": {
+    "id": "ta2",
+    "name": "茶马古道穿越半岭瀑布",
+    "district": "同安区",
+    "category": "creek",
+    "typeLabel": "峡谷徒步",
+    "difficulty": null,
+    "distanceKm": null,
+    "ascent": null,
+    "descent": null,
+    "risk": "古道青苔厚重极滑，瀑布段临崖无保护，易坠坡。",
+    "banned": "老人儿童、户外新手、单人出行",
+    "zoneId": "canyon",
+    "note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.085,
+     24.725
+    ]
+   },
+   "properties": {
+    "id": "ta3",
+    "name": "蝴蝶谷环线（穿越）",
+    "district": "同安区",
+    "category": "creek",
+    "typeLabel": "峡谷徒步",
+    "difficulty": 3,
+    "distanceKm": 5,
+    "ascent": 350,
+    "descent": 340,
+    "risk": "峡谷两侧碎石易滑落，雨后危险性翻倍，沿途无补给。滚石砸伤、迷路、滑坠事故频发。",
+    "banned": "儿童老人、户外新手、雨后进入者、单人出行",
+    "zoneId": "canyon",
+    "note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.1,
+     24.7
+    ]
+   },
+   "properties": {
+    "id": "ta4",
+    "name": "采银溪穿越",
+    "district": "同安区",
+    "category": "creek",
+    "typeLabel": "峡谷徒步（溯溪）",
+    "difficulty": 4,
+    "distanceKm": 4.5,
+    "ascent": 250,
+    "descent": 20,
+    "risk": "溪谷涉水路段多，暴雨天气易突发山洪。",
+    "banned": "老人及儿童、不会游泳者、户外新手、雨天出行者、单独出行者",
+    "zoneId": "canyon",
+    "note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.1,
+     24.755
+    ]
+   },
+   "properties": {
+    "id": "ta5",
+    "name": "杉际内半程环线",
+    "district": "同安区",
+    "category": "creek",
+    "typeLabel": "峡谷徒步",
+    "difficulty": 4,
+    "distanceKm": 7.6,
+    "ascent": 390,
+    "descent": 400,
+    "risk": "峡谷湿滑，树枝茂密易刮伤，山区信号弱。",
+    "banned": "户外新手、雨后出行者、单人出行者",
+    "zoneId": "canyon",
+    "note": "目前杉际内为封禁状态，请依规禁入"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.115,
+     24.69
+    ]
+   },
+   "properties": {
+    "id": "ta6",
+    "name": "小坪森林公园后山野线",
+    "district": "同安区",
+    "category": "hiking",
+    "typeLabel": "密林野路徒步",
+    "difficulty": 4,
+    "distanceKm": 9,
+    "ascent": 550,
+    "descent": 530,
+    "risk": "雨天易山体滑坡，夜间无照明易迷路。多次发生雨夜滑坡受困、山林迷路险情。",
+    "banned": "老人、儿童、雨天出行者、单人出行",
+    "zoneId": "canyon",
+    "note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.075,
+     24.715
+    ]
+   },
+   "properties": {
+    "id": "ta7",
+    "name": "八怪谷半程",
+    "district": "同安区",
+    "category": "creek",
+    "typeLabel": "溯溪徒步",
+    "difficulty": 4,
+    "distanceKm": 6.5,
+    "ascent": 365,
+    "descent": 350,
+    "risk": "峡谷纵深，岩石湿滑，涉水路段多，山洪风险极高。",
+    "banned": "户外新手、亲子、雨天出行者、单人出行",
+    "zoneId": "canyon",
+    "note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.155,
+     24.745
+    ]
+   },
+   "properties": {
+    "id": "ta8",
+    "name": "竹坝峡谷环线",
+    "district": "同安区",
+    "category": "creek",
+    "typeLabel": "峡谷徒步（含攀谷段）",
+    "difficulty": null,
+    "distanceKm": null,
+    "ascent": null,
+    "descent": null,
+    "risk": "攀谷路段陡峭湿滑易坠落，雨季山洪风险极高。",
+    "banned": "老人儿童、户外新手、雨天出行者、单人出行",
+    "zoneId": "canyon",
+    "note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.135,
+     24.785
+    ]
+   },
+   "properties": {
+    "id": "ta9",
+    "name": "溪东穿越雪山岩",
+    "district": "同安区",
+    "category": "hiking",
+    "typeLabel": "徒步登山",
+    "difficulty": null,
+    "distanceKm": null,
+    "ascent": null,
+    "descent": null,
+    "risk": "山路崎岖，大落差上下坡，偏远区域信号差。",
+    "banned": "老人儿童、户外新手、单人出行",
+    "zoneId": "canyon",
+    "note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.3,
+     24.63
+    ]
+   },
+   "properties": {
+    "id": "xa1",
+    "name": "铁砧山未开发环线",
+    "district": "翔安区",
+    "category": "hiking",
+    "typeLabel": "无标识野路徒步",
+    "difficulty": 4,
+    "distanceKm": 8,
+    "ascent": 520,
+    "descent": 500,
+    "risk": "深山信号弱，岔路极多，极易长时间失联。多支队伍迷路，曾出动直升机 + 地面联合救援。",
+    "banned": "户外新手、无导航设备者、单人出行",
+    "zoneId": "coast",
+    "note": null
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.265,
+     24.55
+    ]
+   },
+   "properties": {
+    "id": "xa2",
+    "name": "后山岩野攀线",
+    "district": "翔安区",
+    "category": "climbing",
+    "typeLabel": "峭壁野攀",
+    "difficulty": 4,
+    "distanceKm": 3,
+    "ascent": 320,
+    "descent": 300,
+    "risk": "无保护徒手攀岩，岩石风化易断裂脱落，易发生跌落摔伤、峭壁悬空被困等事故。",
+    "banned": "无专业装备者、单人出行",
+    "zoneId": "coast",
+    "note": "全市 35 条线中唯一官方定性为“峭壁野攀”的线路"
+   }
+  }
+ ]
+}
